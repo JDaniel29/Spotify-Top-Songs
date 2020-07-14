@@ -1,2 +1,4 @@
 *.sh
 *.py
+venv
+.ipynb_checkpoints/
